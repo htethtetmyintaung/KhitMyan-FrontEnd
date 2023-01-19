@@ -568,7 +568,7 @@ strong {
 }
 
 .projects-thumb-large {
-  min-height: 356px;
+  max-height: 356px;
 }
 
 .projects-thumb:hover {
